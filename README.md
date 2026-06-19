@@ -1,4 +1,4 @@
-# Superstore-Mall-Saes-Dashboard--Power-BI
+# Superstore-Mall-Sales-Dashboard--Power-BI
 # Sales Analysis Dashboard - Power BI
 
 ## Overview
